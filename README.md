@@ -1,4 +1,4 @@
 # Landing page
 
 Link do site:
-https://github.com/MatheusBenettihub/Landing-page-html-css
+https://matheusbenettihub.github.io/Landing-page-html-css/
